@@ -72,4 +72,4 @@ This project is licensed under the MIT License – feel free to use and modify t
 
 📧 Contact
 
-For questions or collaborations, reach out via GitHub Issues or email kevinomerkilic@yourdomain.com.
+For questions or collaborations, reach out via GitHub Issues or email 16omerkilic@gmail.com
